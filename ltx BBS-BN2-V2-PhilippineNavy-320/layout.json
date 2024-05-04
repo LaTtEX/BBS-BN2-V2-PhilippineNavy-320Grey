@@ -1,0 +1,89 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/aircraft.cfg",
+      "size": 2000,
+      "date": 133593015142929746
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/MODEL.PN320/model.CFG",
+      "size": 784,
+      "date": 133591269251523161
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/BBS-BN2-PANEL2_ALB.PNG.DDS",
+      "size": 22369776,
+      "date": 133587712702202837
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/BBS-BN2-PANEL2_ALB.PNG.DDS.json",
+      "size": 119,
+      "date": 133587712702222937
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/BBS_BN2-EX1_ALB.PNG.DDS",
+      "size": 22369796,
+      "date": 133593062130720118
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/BBS_BN2-EX1_ALB.PNG.DDS.json",
+      "size": 102,
+      "date": 133591269252203137
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/BBS_BN2-EX1_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 133587712702662870
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/BBS_BN2-EX1_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133587712702682855
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/BBS_BN2-WING_ALB.PNG.DDS",
+      "size": 22369796,
+      "date": 133593004936461504
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/BBS_BN2-WING_ALB.PNG.DDS.json",
+      "size": 102,
+      "date": 133591269252673165
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/BBS_BN2-WING_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 133587712703002829
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/BBS_BN2-WING_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133587712703022833
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/MAIN_PANEL.PNG.DDS",
+      "size": 699192,
+      "date": 133587712703062865
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/MAIN_PANEL.PNG.DDS.json",
+      "size": 102,
+      "date": 133587712703072833
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/texture.CFG",
+      "size": 72,
+      "date": 133591269252683148
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/thumbnail.jpg",
+      "size": 103221,
+      "date": 133593031166078897
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy 320/TEXTURE.PN320/thumbnail_small.jpg",
+      "size": 103221,
+      "date": 133593031166078897
+    }
+  ]
+}
