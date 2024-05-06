@@ -1,0 +1,89 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/aircraft.cfg",
+      "size": 1994,
+      "date": 133594796141894725
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/MODEL.PN314/model.CFG",
+      "size": 784,
+      "date": 133591269251523161
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/BBS-BN2-PANEL2_ALB.PNG.DDS",
+      "size": 22369796,
+      "date": 133593117623448738
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/BBS-BN2-PANEL2_ALB.PNG.DDS.json",
+      "size": 119,
+      "date": 133587712702222937
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/BBS_BN2-EX1_ALB.PNG.DDS",
+      "size": 22369796,
+      "date": 133594787825150085
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/BBS_BN2-EX1_ALB.PNG.DDS.json",
+      "size": 102,
+      "date": 133591269252203137
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/BBS_BN2-EX1_COMP.PNG.DDS",
+      "size": 22369796,
+      "date": 133594792949854613
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/BBS_BN2-EX1_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133587712702682855
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/BBS_BN2-WING_ALB.PNG.DDS",
+      "size": 22369796,
+      "date": 133594790010931632
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/BBS_BN2-WING_ALB.PNG.DDS.json",
+      "size": 102,
+      "date": 133591269252673165
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/BBS_BN2-WING_COMP.PNG.DDS",
+      "size": 22369796,
+      "date": 133594794876205949
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/BBS_BN2-WING_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133587712703022833
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/MAIN_PANEL.PNG.DDS",
+      "size": 699192,
+      "date": 133587712703062865
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/MAIN_PANEL.PNG.DDS.json",
+      "size": 102,
+      "date": 133587712703072833
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/texture.CFG",
+      "size": 72,
+      "date": 133591269252683148
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/thumbnail.jpg",
+      "size": 126627,
+      "date": 133593609334746024
+    },
+    {
+      "path": "SimObjects/Airplanes/BBS_BN2-V2 Philippine Navy Classic/TEXTURE.PN314/thumbnail_small.jpg",
+      "size": 126627,
+      "date": 133593609334746024
+    }
+  ]
+}
